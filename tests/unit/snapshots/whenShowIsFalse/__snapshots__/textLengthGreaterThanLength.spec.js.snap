@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test truncate component snapshots should match the snapshot for text.length > length 1`] = `
+<div>
+  <div>
+    <span
+      class=""
+    >
+      M
+    </span>
+     
+    <a
+      class=""
+    >
+      Read More
+    </a>
+  </div>
+   
+  <!---->
+</div>
+`;
